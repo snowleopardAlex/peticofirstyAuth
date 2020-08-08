@@ -1,0 +1,22 @@
+{
+    "local": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-peticofirsty-local-182437-authRole",
+            "UnauthRoleArn": "arn:aws:iam::545061496314:role/amplify-peticofirsty-local-182437-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::545061496314:role/amplify-peticofirsty-local-182437-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-peticofirsty-local-182437-deployment",
+            "UnauthRoleName": "amplify-peticofirsty-local-182437-unauthRole",
+            "StackName": "amplify-peticofirsty-local-182437",
+            "StackId": "arn:aws:cloudformation:us-east-2:545061496314:stack/amplify-peticofirsty-local-182437/22148030-cc6a-11ea-acfd-06d9da1ade34",
+            "AmplifyAppId": "dfq5wu2tvmkzf"
+        },
+        "categories": {
+            "auth": {
+                "peticofirstyfe1cf8eb": {
+                    "hostedUIProviderCreds": "[]"
+                }
+            }
+        }
+    }
+}
